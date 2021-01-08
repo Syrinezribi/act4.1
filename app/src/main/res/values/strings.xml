@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">activité4.1</string>
+    <string name="Name">your name</string>
+    <string name="Pass"> your password</string>
+    <string name="login">Login</string>
+    <string name="check">your login information</string>
+    <string name="nom">nom</string>
+    <string name="pass">password</string>
+    <string name="ch">checkbox</string>
+</resources>
+
+
